@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22e4e3a1f962a3b479960f67c8ad6a9d, type: 3}
+  m_Name: TurnipData
+  m_EditorClassIdentifier: Assembly-CSharp::CropData
+  cropType: 0
+  cropName: Turnip
+  growthTimeToStage1: 30
+  stage0Sprite: {fileID: -1023712170, guid: 886405bfea9bbf34882b1f81defb11d0, type: 3}
+  stage1Sprite: {fileID: -37597722, guid: aaf5348729e127b49a897eb417cc5fd3, type: 3}

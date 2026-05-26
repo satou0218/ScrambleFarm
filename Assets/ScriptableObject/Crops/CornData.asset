@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22e4e3a1f962a3b479960f67c8ad6a9d, type: 3}
+  m_Name: CornData
+  m_EditorClassIdentifier: Assembly-CSharp::CropData
+  cropType: 5
+  cropName: Corn
+  growthTimeToStage1: 30
+  stage0Sprite: {fileID: 1524036635, guid: b5566717d12b8ac4fba1c1f71108e66d, type: 3}
+  stage1Sprite: {fileID: 376309251, guid: 813a339cb595e6a4f9da1196cc4cd98e, type: 3}

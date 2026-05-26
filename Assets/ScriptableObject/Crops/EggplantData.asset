@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22e4e3a1f962a3b479960f67c8ad6a9d, type: 3}
+  m_Name: EggplantData
+  m_EditorClassIdentifier: Assembly-CSharp::CropData
+  cropType: 2
+  cropName: Eggplant
+  growthTimeToStage1: 30
+  stage0Sprite: {fileID: 905601689, guid: e71671a2a7dc76d4eb90acaf334c5f59, type: 3}
+  stage1Sprite: {fileID: -496728753, guid: eba11a885044b3d4da1f1a842e039638, type: 3}
